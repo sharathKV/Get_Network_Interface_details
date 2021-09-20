@@ -2,7 +2,8 @@ Problem 3
 
 # Get_remote_Interface_Details
 Extract IP, MAC, Interface types of available interfaces on a remote machine.
-Check the build/html/interface_details.html file for more detailed information.  
+
+[Read the full documentation here](https://sharathkv.github.io/Get_Network_Interface_details/)
 
 Example Usage:  
 
